@@ -11,6 +11,6 @@ https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/
 
 <br>
 
-## Mini Projetos do Curso
+### Mini Projetos do Curso
 
 1 - [HTML Coffee Project](https://munrramt.github.io/HTML-CSS-Tutorial-and-Projects-Course/html-coffee-project/index.html)
