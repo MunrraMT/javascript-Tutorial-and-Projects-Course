@@ -1,0 +1,12 @@
+let name = 'John shrimp taco VI';
+console.log(name);
+console.log(name);
+console.log(name);
+console.log(name);
+console.log(name);
+console.log(name);
+console.log(name);
+console.log(name);
+console.log(name);
+console.log(name);
+console.log(name);
