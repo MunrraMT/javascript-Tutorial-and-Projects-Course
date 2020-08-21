@@ -1,4 +1,5 @@
 // Loops
+// do while loop
 
 let money = 0;
 
