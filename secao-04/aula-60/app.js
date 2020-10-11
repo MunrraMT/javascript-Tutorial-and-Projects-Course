@@ -1,4 +1,6 @@
 // FIND
+// RETORNA O PRIMEIRO ITEM VÁLIDO DE UM ARRAY
+
 // ES5 - ARRAY.FIND
 var inventoryA = [
 	{ name: 'apples', quantity: 2 },
