@@ -34,7 +34,6 @@ groceryForm.addEventListener('submit', (e) => {
 
 clearAllItens.addEventListener('click', () => {
 	itensEmpty();
-	toggleContainerList();
 });
 
 // ****** FUNCTIONS **********
@@ -105,7 +104,7 @@ function displayAlertMsg(msg, className) {
 	setTimeout(() => {
 		alertMesg.classList.remove(`alert-${className}`);
 		alertMesg.textContent = '';
-	}, 1000);
+	}, 2000);
 }
 
 function deleteItem(e) {
@@ -157,7 +156,10 @@ function itensEmpty() {
 	const vazio = [];
 	collectionItens = vazio;
 	addLocalStorage(vazio);
+	showItem(collectionItens);
 	displayAlertMsg('empty list', 'danger');
+	inputEmpty();
+	toggleContainerList();
 }
 
 function rand(min = 1000000000, max = 9999999999) {
