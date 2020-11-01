@@ -29,7 +29,9 @@ function getData(url) {
 
 		const { value: joke } = xhr.response;
 		content.textContent = joke;
-		chuckImage.classList.remove('shake-img');
+		setTimeout(() => {
+			chuckImage.classList.remove('shake-img');
+		}, 250);
 	};
 }
 
