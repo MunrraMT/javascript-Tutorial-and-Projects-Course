@@ -22,3 +22,9 @@ https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/
 7º - [Questions](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/7-questions/minhaSolucao/index.html)<br>
 8º - [Menu](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/8-menu/minhaSolucao/index.html)<br>
 9º - [Vídeo](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/9-video/minhaSolucao/index.html)<br>
+9º - [Scroll](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/10-scroll/minhaSolucaoindex.html)<br>
+9º - [Tabs](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/11-tabs/minhaSolucao/index.html)<br>
+9º - [Countdown Timer](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/12-countdown-timer/minhaSolucao/index.html)<br>
+9º - [Lorem Ipsum](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/13-lorem-ipsum/minhaSolucao/index.html)<br>
+9º - [Grocery Bud](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/14-grocery-bud/minhaSolucao/index.html)<br>
+9º - [Slider](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/15-slider/minhaSolucao/index.html)<br>
