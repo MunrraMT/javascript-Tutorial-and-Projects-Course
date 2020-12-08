@@ -28,3 +28,7 @@ https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/
 13º - [Lorem Ipsum](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/13-lorem-ipsum/minhaSolucao/index.html)<br>
 14º - [Grocery Bud](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/14-grocery-bud/minhaSolucao/index.html)<br>
 15º - [Slider](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/15-slider/minhaSolucao/index.html)<br>
+
+### FINAL Projetos do Curso
+
+1º - [Comfy Project](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-17/comfy-project/index.html)<br>
