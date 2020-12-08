@@ -31,4 +31,4 @@ https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/
 
 ### FINAL Projetos do Curso
 
-1º - [Comfy Project](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-17/comfy-project/index.html)<br>
+[Comfy Project](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-17/comfy-project/index.html)<br>
