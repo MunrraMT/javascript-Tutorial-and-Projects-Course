@@ -20,6 +20,5 @@ https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/
 5º - [SideBar](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/5-sidebar/minhaSolucao/index.html)
 6º - [Modal](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/6-modal/minhaSolucao/index.html)
 7º - [Questions](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/7-questions/minhaSolucao/index.html)
-
 8º - [Menu](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/8-menu/minhaSolucao/index.html)
 9º - [Vídeo](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/9-video/minhaSolucao/index.html)
