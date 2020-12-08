@@ -13,7 +13,7 @@ https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/
 
 ### DOM Projetos do Curso
 
-1º - [Color Flipper](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/1-color-flipper/minhaSolucao/index.html)<br>
+1º - [Color Flipper](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/secao-06/1-color-flipper/minhaSolucao/index.html)<br>
 2º - [Counter](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/2-counter/minhaSolucao/index.html)<br>
 3º - [Reviews](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/3-reviews/minhaSolucao/index.html)<br>
 4º - [NavBar](https://munrramt.github.io/javascript-Tutorial-and-Projects-Course/tree/master/secao-06/4-navbar/minhaSolucaoindex.html)<br>
